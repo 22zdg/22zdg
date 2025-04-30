@@ -30,7 +30,7 @@
 ---
 
 ## 📂 **Projects**
-### 🔹 [Autonomous Taxi](https://github.com/22zdg/autonomoustaxi)
+### 🔹 [Autonomous Taxi](https://github.com/22zdg/autonomousTaxi-extract.git)
 > Backend path planing and navigation systems  
 > 🛠️ Focused on undirectional map generation, path planning algortihms, real-time API requests / processing.
 
