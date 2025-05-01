@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Zachary Gerhard!
 
-🎓 **Third-year Computer Engineering student** at Queen’s University, passionate about software development, embedded systems, and solving real-world engineering challenges.
+🎓 **Third-year Computer Engineering student** at Queen’s University, passionate about software development and solving real-world engineering challenges.
 
 ---
 
