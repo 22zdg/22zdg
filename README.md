@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 **About Me**
-- 💡 Always curious, always learning — especially interested in building **efficient, scalable systems**.
+- 💡 Always looking to learn — especially interested in building **quaility, scalable systems**.
 - 🛠️ Skilled in **C, C++, Python, Java, SQL**, and **Verilog** with experience across both **software and hardware** domains.
 - 🧩 Love working on **collaborative projects** that bring together backend logic, embedded control, and real-time systems.
 - 🌱 Currently learning more about **web development frameworks** to expand my full-stack development toolkit.
