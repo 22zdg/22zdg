@@ -34,6 +34,9 @@
 > Backend path planing and navigation systems  
 > 🛠️ Focused on undirectional map generation, path planning algortihms, real-time API requests / processing.
 
+### 🔹 [Conference Database Managment System](https://github.com/22zdg/conferenceDBsystem.git)
+> 🗄️ Developed PHP/PDO + MySQL web application to manage university conference database.
+
 ### 🔹 Custom RISC CPU (Mini SRC) *(In Progress)*
 > 🖥️ Designing a Reduced Instruction Set Computer (RISC) processor using Verilog.
 
